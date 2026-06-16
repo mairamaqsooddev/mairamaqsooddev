@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Maira 👋
 
-<!--
-**mairamaqsooddev/mairamaqsooddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer with 3+ years of experience building scalable web applications and SaaS platforms.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Node.js
+- Express.js
+- TypeScript
+- MongoDB
+- MySQL
+- AWS S3
+- Stripe
+- JWT
+- Socket.IO
+- Docker
+- Redis
+
+## Currently Learning
+
+- NestJS
+- Docker
+- CI/CD
+- System Design
+
+## Contact
+
+LinkedIn: ...
+Email: mairamaqsood.tech@gmail.com
