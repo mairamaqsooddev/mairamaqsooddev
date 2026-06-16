@@ -25,5 +25,5 @@ Backend Engineer with 3+ years of experience building scalable web applications 
 
 ## Contact
 
-LinkedIn: ...
+LinkedIn: www.linkedin.com/in/maira-maqsood-13b83126b
 Email: mairamaqsood.tech@gmail.com
